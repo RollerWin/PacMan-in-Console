@@ -1,0 +1,8 @@
+D:\Soft\учёба\ЯЮниор\PacMan\PacMan\bin\Debug\PacMan.exe.config
+D:\Soft\учёба\ЯЮниор\PacMan\PacMan\bin\Debug\PacMan.exe
+D:\Soft\учёба\ЯЮниор\PacMan\PacMan\bin\Debug\PacMan.pdb
+D:\Soft\учёба\ЯЮниор\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+D:\Soft\учёба\ЯЮниор\PacMan\PacMan\obj\Debug\PacMan.csproj.SuggestedBindingRedirects.cache
+D:\Soft\учёба\ЯЮниор\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+D:\Soft\учёба\ЯЮниор\PacMan\PacMan\obj\Debug\PacMan.exe
+D:\Soft\учёба\ЯЮниор\PacMan\PacMan\obj\Debug\PacMan.pdb
